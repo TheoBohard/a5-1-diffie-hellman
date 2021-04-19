@@ -1,11 +1,11 @@
 ## This document is about a "project" of cryptography for monetics for ENSICAEN
 
-The authors of this PW is **Théo BOHARD** / **Inès BOURJIJ** / **Rémy FOURREZ**.
+The authors of this project is **Théo BOHARD** / **Inès BOURJIJ** / **Rémy FOURREZ**.
 
 You will find a file named tp_crypto_final.py to execute it i advice you to use python3 instead of python because 
 if you use python you will have to put "" to enter the word to encrypt
 
-<code> python3 tp_crypto_final.py </code>
+<code> python3 main.py </code>
 
 
 In the doc folder you will find an index.html which contains the documentation
