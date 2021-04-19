@@ -2,7 +2,7 @@
 
 The authors of this project is **Théo BOHARD** / **Inès BOURJIJ** / **Rémy FOURREZ**.
 
-You will find a file named tp_crypto_final.py to execute it i advice you to use python3 instead of python because 
+You will find a file named main.py to execute it i advice you to use python3 instead of python because 
 if you use python you will have to put "" to enter the word to encrypt
 
 <code> python3 main.py </code>
