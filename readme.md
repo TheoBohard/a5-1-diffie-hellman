@@ -1,4 +1,4 @@
-## This document is about a PW of cryptography for monetics for ENSICAEN
+## This document is about a "project" of cryptography for monetics for ENSICAEN
 
 The authors of this PW is **Théo BOHARD** / **Inès BOURJIJ** / **Rémy FOURREZ**.
 
